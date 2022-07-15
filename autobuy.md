@@ -2,7 +2,7 @@
 
 ## Установка
 
-Для работы софта необходима JAVA(скачать) открываем скачавшийся файл, устанавливаем
+Для работы софта необходима [JAVA(скачать)](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=244068_89d678f2be164786b292527658ca1605) открываем скачавшийся файл, устанавливаем
 ![](https://user-images.githubusercontent.com/72243137/179285093-4153143e-2a5f-49aa-81b6-c3038bb73e95.png)
 ![](https://user-images.githubusercontent.com/72243137/179285350-e2496e34-5f14-4cbc-a8b6-cec75c67a5bc.png)
 
